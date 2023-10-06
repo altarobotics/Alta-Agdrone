@@ -1,6 +1,6 @@
 Database crops
+
 Notion of water rate absorbtion regarding the types of crops 
-Water intake 
 We must monitor the Salinaty tolerance : it is the hability for the crops to absorb the salt inside the water 
 Crops evapotransmission – Crops water needs – Peak evaporation 
 Dates when crops begin and ends  
@@ -12,8 +12,24 @@ We could always consult some specialist in irrigation to perform our database
 Irrigation method selection  
 
 Irrigation system management 
-soil plant water balance – daily assessment process – measuring soil water content ) 
+soil plant water balance – daily assessment process – measuring soil water content 
 
 Irrigation risk
 The risk to be over irrigation and under irrigation with the drawbacks 
 And the risk to be under irrigation  with the drawbacks 
+
+1-Surface irrigation
+Very interesting for the cultures in the deep valley side
+less expensive to put in place and need less of maintenance 
+good to irrigate the roots and in the field with stones in general with low level of ndvi
+Not recemmended in cases of diseases detection or crops contamination
+
+2-Sprinkle irrigation
+Very simple to put in place with tuble and ergonomics surface
+Very efficient for ndvi very low for treating diseasess
+Not recommended in case of great sunshine with possibilities of evaporation
+
+3-Micro irrigation
+Micro irrigation is a technic very spread for the agriculture of large surface in particular for the cultures of wines and orchide
+the advantage is that allow to distribute the quantity needed for each crops 
+recommended in high maintenance with middle level of ndvi index adequate with fertilizer liquide
