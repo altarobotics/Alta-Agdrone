@@ -6,12 +6,13 @@ Only 22% of the field with a value between 0.7 and 0.9 of the surface has an exc
 In general, overall the surface is in a good condition with an average value of 0.395.
 Please consider applying these recommendations below in order to have better statistics and health of both the soil and the crops.
 
-portion area : small ( 0 - 20% ) / medium ( 20% - 40% ) / majority ( 40% - 100% )
+portion area : 
+small ( 0 - 20% ) / medium ( 20% - 40% ) / majority ( 40% - 100% )
 
 condition : 
 not alarming no photosynthetic activities ( minus to -0.1 )
 not alarming soil probably ready of preason ( -0.1 - 0.2 )
-alarming - potential contamination  0.2 - 0.4 )
+alarming - potential contamination ( 0.2 - 0.4 )
 not good - ( 0.4 - 0.6 )
 good - ( 0.6 - 0.7 )
 excellent ( 0.7 - 0.9 )
@@ -26,6 +27,8 @@ interpretation :
 
 A ( portion area ) portion of the field is in the index of ( index ) a relatively in ( conditions ) condition which means ( interpretations )
 The overall surface is in ( condition ) with an average index value of ( index )
+
+--------------------------------------------------------------------------------
 
 Index
 
